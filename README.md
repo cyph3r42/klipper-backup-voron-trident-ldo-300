@@ -1,6 +1,8 @@
-Backup of my Voron Trident config
-Built from an LDO 300^3 kit with a Rapido v2 hotend
-Mods:
+# Backup of my Voron Trident config
+
+Built from an LDO 300^3 rev.C kit with a Rapido v2 hotend
+
+## Mods:
 ChaoticLabs CNC Tap V2
 Sensorless homing
 Kinematic Bed Mounts: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
