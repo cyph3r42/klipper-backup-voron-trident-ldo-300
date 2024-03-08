@@ -1,3 +1,4 @@
+#Sourced from: https://weworkweplay.com/play/rebooting-the-raspberry-pi-when-it-loses-wireless-connection-wifi/
 ping -c4 192.168.1.1 > /dev/null
 
 if [ $? != 0 ]
